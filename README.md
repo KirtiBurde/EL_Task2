@@ -8,6 +8,7 @@ This dashboard provides a comprehensive overview of the shoes business performan
 * Top-Selling Products: Men’s Casual (23%) and Women’s Dress (18%) dominate sales.
 * Underperforming Regions: Asia and South America show low inventory levels, which could mean either low demand or supply chain gaps.
 * Returns Concentration: Tel Aviv and Vancouver have the highest return volumes, signaling potential product or service issues.
+  
 **2. Chart Context & Analysis**
 1. Sum of Sales by Product (Donut Chart)
 * Purpose: Displays percentage share of sales by each shoe category.
